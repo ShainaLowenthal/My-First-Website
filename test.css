@@ -1,3 +1,19 @@
+
+h1
+{
+	color:white;
+	text-align: center;
+	font-family: "Roboto", bookman;
+	left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    font-size: 90px;
+}
+
 *
 {
 	margin: 0;
@@ -47,6 +63,10 @@ header
 	width: 150px;
 	height: auto;
 	float: left;
+	
+   
+   
+  
 }
 body
 {
@@ -58,3 +78,4 @@ body
 	max-width: 1200px;
 	margin: auto;
 }
+
